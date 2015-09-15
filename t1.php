@@ -22,6 +22,7 @@ echo $yazilacak;
 }
 
 function ip_yazdir(){
+	
  
     echo $_SERVER['REMOTE_ADDR']; 
     
